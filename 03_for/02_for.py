@@ -19,3 +19,7 @@ for i in list3:
     #print(i, end=" ")
     print(i, end="\t")
     
+print()
+list4 = [[1,"a"], [2, "b"], [3, "c"]]
+for i,j in list4:
+    print(i,j)
